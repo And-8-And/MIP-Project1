@@ -1,0 +1,15 @@
+F:\IT\Egyetem\C#\Lab3_1\Lab3_1\bin\Debug\Lab3_1.exe.config
+F:\IT\Egyetem\C#\Lab3_1\Lab3_1\bin\Debug\Lab3_1.exe
+F:\IT\Egyetem\C#\Lab3_1\Lab3_1\bin\Debug\Lab3_1.pdb
+F:\IT\Egyetem\C#\Lab3_1\Lab3_1\obj\Debug\Lab3_1.csproj.AssemblyReference.cache
+F:\IT\Egyetem\C#\Lab3_1\Lab3_1\obj\Debug\Lab3_1.Form1.resources
+F:\IT\Egyetem\C#\Lab3_1\Lab3_1\obj\Debug\Lab3_1.Properties.Resources.resources
+F:\IT\Egyetem\C#\Lab3_1\Lab3_1\obj\Debug\Lab3_1.csproj.GenerateResource.cache
+F:\IT\Egyetem\C#\Lab3_1\Lab3_1\obj\Debug\Lab3_1.csproj.CoreCompileInputs.cache
+F:\IT\Egyetem\C#\Lab3_1\Lab3_1\obj\Debug\Lab3_1.exe
+F:\IT\Egyetem\C#\Lab3_1\Lab3_1\obj\Debug\Lab3_1.pdb
+F:\IT\Egyetem\C#\Lab3_1\Lab3_1\obj\Debug\Lab3_1.exe.config
+F:\IT\Egyetem\C#\Lab3_1\Lab3_1\bin\Debug\System.Data.SQLite.dll
+F:\IT\Egyetem\C#\Lab3_1\Lab3_1\obj\Debug\Lab3_1.csproj.Up2Date
+F:\IT\Egyetem\C#\Lab3_1\Lab3_1\obj\Debug\Lab3_1.Form2.resources
+F:\IT\Egyetem\C#\Lab3_1\Lab3_1\bin\Debug\System.Data.SQLite.xml

@@ -1,0 +1,66 @@
+2025-11-04 19:43:47.193 - Navigating to: https://duckduckgo.com/
+[2025-11-04 19:44:32.4258772] System.Data.SQLite (Preload): Native library pre-loader is trying to load native SQLite library "F:\IT\Egyetem\C#\Lab3_1\Lab3_1\bin\Debug\x86\SQLite.Interop.dll"...
+2025-11-04 19:45:33.949 - Navigate from textbox: 
+2025-11-04 19:45:34.027 - Navigate from textbox: w
+2025-11-04 19:45:34.219 - Navigate from textbox: wi
+2025-11-04 19:45:34.395 - Navigate from textbox: wik
+2025-11-04 19:45:34.603 - Navigate from textbox: wiki
+2025-11-04 19:45:34.731 - Navigate from textbox: wikip
+2025-11-04 19:45:35.036 - Navigate from textbox: wikipe
+2025-11-04 19:45:35.162 - Navigate from textbox: wikiped
+2025-11-04 19:45:35.259 - Navigate from textbox: wikipedi
+2025-11-04 19:45:35.611 - Navigate from textbox: wikipedia
+2025-11-04 19:45:35.787 - Navigate from textbox: wikipedia.
+2025-11-04 19:45:35.867 - Navigate from textbox: wikipedia.c
+2025-11-04 19:45:35.947 - Navigate from textbox: wikipedia.co
+2025-11-04 19:45:36.759 - Navigate from textbox: wikipedia.com
+2025-11-04 19:45:36.766 - Navigating to: http://wikipedia.com/
+2025-11-04 19:45:40.028 - Navigate from textbox: wikipedia.com
+2025-11-04 19:45:40.251 - Navigate from textbox: wikipedia.com
+2025-11-04 19:45:55.100 - Navigate from textbox: wikipedia.com
+2025-11-04 19:45:55.195 - Navigate from textbox: c.com
+2025-11-04 19:45:55.292 - Navigate from textbox: ch.com
+2025-11-04 19:45:55.436 - Navigate from textbox: cha.com
+2025-11-04 19:45:55.643 - Navigate from textbox: chat.com
+2025-11-04 19:45:55.722 - Navigate from textbox: chatg.com
+2025-11-04 19:45:55.803 - Navigate from textbox: chatgp.com
+2025-11-04 19:45:56.156 - Navigate from textbox: chatgpt.com
+2025-11-04 19:45:56.161 - Navigating to: http://chatgpt.com/
+2025-11-04 19:45:57.471 - Navigating to: about:blank
+2025-11-04 19:46:01.816 - Navigating to: https://www.wikipedia.org/
+2025-11-04 19:46:01.819 - Navigate back
+2025-11-04 19:46:03.026 - Navigate forward
+2025-11-04 19:46:03.033 - Navigating to: https://chatgpt.com/
+2025-11-04 19:46:03.062 - Navigating to: about:blank
+2025-11-04 19:46:07.476 - Navigating to: https://www.wikipedia.org/
+2025-11-04 19:46:07.477 - Navigate back
+2025-11-04 19:46:08.143 - Navigate back
+2025-11-04 19:46:08.143 - Navigating to: https://html.duckduckgo.com/html/
+2025-11-04 19:46:08.912 - Navigate forward
+2025-11-04 19:46:08.966 - Navigating to: https://www.wikipedia.org/
+2025-11-04 19:46:09.649 - Navigate back
+2025-11-04 19:46:09.650 - Navigating to: https://html.duckduckgo.com/html/
+2025-11-04 19:46:15.506 - Navigating to: https://www.wikipedia.org/
+2025-11-04 19:46:15.509 - Navigate forward
+2025-11-04 19:46:17.079 - Navigating to: https://chatgpt.com/
+2025-11-04 19:46:17.081 - Navigate forward
+2025-11-04 19:46:17.117 - Navigating to: about:blank
+2025-11-04 19:46:18.764 - Navigating to: https://www.wikipedia.org/
+2025-11-04 19:46:18.768 - Navigate back
+2025-11-04 19:46:19.784 - Navigate back
+2025-11-04 19:46:19.785 - Navigating to: https://html.duckduckgo.com/html/
+2025-11-04 19:46:20.586 - Navigate forward
+2025-11-04 19:46:20.642 - Navigating to: https://www.wikipedia.org/
+2025-11-04 19:46:20.852 - Navigate forward
+2025-11-04 19:46:20.856 - Navigating to: https://chatgpt.com/
+2025-11-04 19:46:20.885 - Navigating to: about:blank
+2025-11-04 19:46:21.958 - Home button clicked - Navigated to homepage
+2025-11-04 19:46:21.962 - Navigating to: https://duckduckgo.com/
+2025-11-04 19:46:39.646 - Navigate forward
+2025-11-04 19:46:40.547 - Navigate back
+2025-11-04 19:46:40.552 - Navigating to: https://chatgpt.com/
+2025-11-04 19:46:40.579 - Navigating to: about:blank
+2025-11-04 19:46:41.386 - Navigating to: https://www.wikipedia.org/
+2025-11-04 19:46:41.391 - Navigate back
+2025-11-04 19:46:42.951 - Back to home page
+2025-11-04 19:46:42.954 - Navigating to: https://duckduckgo.com/
